@@ -2,6 +2,17 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * 1. Generate deck of cards
+ * 2. Add ability to take one card and place it on the table
+ * 3. Remove taken card from the deck
+ * 4. Add ability to take multiple cards at once
+ */
+
+/**
+ * 
+ */
+
 function App() {
   return (
     <div className="App">
